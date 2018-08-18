@@ -1,22 +1,20 @@
-# Ignore everything
-/*
+# eclipse
+.classpath/
+.metadata/
+.project/
+.settings/
+*.launch
+bin/
+eclipse/
 
-# Folders
-!/gradle
-!/src
-!/mappings
+# idea
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
 
-# Files
-!/.gitattributes
-!/.gitignore
-!/build.gradle
-!/gradle.properties
-!/gradlew
-!/gradlew.bat
-!/HEADER
-!/Jenkinsfile
-!/LICENSE
-!/README.md
-!/settings.gradle
-# Temporary
-!/BuildFile
+# gradle
+.gradle/
+build/
+run/
