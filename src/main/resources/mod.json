@@ -1,0 +1,8 @@
+[
+  {
+    "modid": "examplemod",
+    "name": "ExampleMod",
+    "version": "1.0.0",
+    "mainClass": "com.openmodloader.examplemod.ExampleMod"
+  }
+]
